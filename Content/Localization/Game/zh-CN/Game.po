@@ -1,0 +1,71 @@
+﻿# Game Chinese (China) translation.
+# Copyright Epic Games, Inc. All Rights Reserved.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Game\n"
+"POT-Creation-Date: 2022-10-08 07:20\n"
+"PO-Revision-Date: 2022-10-08 07:20\n"
+"Language-Team: \n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. Key:	__Key__
+#. SourceLocation:	/Game/Localization/StringTable/LocalizationTest.LocalizationTest
+#: /Game/Localization/StringTable/LocalizationTest.LocalizationTest
+msgctxt "LocalizationTest,__Key__"
+msgid "Chinese"
+msgstr "Chinese"
+
+#. Key:	Activity_Puzzle
+#. SourceLocation:	/Game/Localization/StringTable/LocalizationTest.LocalizationTest
+#: /Game/Localization/StringTable/LocalizationTest.LocalizationTest
+msgctxt "LocalizationTest,Activity_Puzzle"
+msgid "翻牌"
+msgstr "翻牌"
+
+#. Key:	Activity_Sign
+#. SourceLocation:	/Game/Localization/StringTable/LocalizationTest.LocalizationTest
+#: /Game/Localization/StringTable/LocalizationTest.LocalizationTest
+msgctxt "LocalizationTest,Activity_Sign"
+msgid "签到"
+msgstr "签到"
+
+#. Key:	Login_ExitGame
+#. SourceLocation:	/Game/Localization/StringTable/LocalizationTest.LocalizationTest
+#: /Game/Localization/StringTable/LocalizationTest.LocalizationTest
+msgctxt "LocalizationTest,Login_ExitGame"
+msgid "退出游戏"
+msgstr "退出游戏"
+
+#. Key:	Login_ReLogin
+#. SourceLocation:	/Game/Localization/StringTable/LocalizationTest.LocalizationTest
+#: /Game/Localization/StringTable/LocalizationTest.LocalizationTest
+msgctxt "LocalizationTest,Login_ReLogin"
+msgid "重新登陆"
+msgstr "重新登陆"
+
+#. Key:	Login_StartGame
+#. SourceLocation:	/Game/Localization/StringTable/LocalizationTest.LocalizationTest
+#: /Game/Localization/StringTable/LocalizationTest.LocalizationTest
+msgctxt "LocalizationTest,Login_StartGame"
+msgid "开始游戏"
+msgstr "开始游戏"
+
+#. Key:	Task_1
+#. SourceLocation:	/Game/Localization/StringTable/LocalizationTest.LocalizationTest
+#: /Game/Localization/StringTable/LocalizationTest.LocalizationTest
+msgctxt "LocalizationTest,Task_1"
+msgid "任务1"
+msgstr "任务1"
+
+#. Key:	Task_2
+#. SourceLocation:	/Game/Localization/StringTable/LocalizationTest.LocalizationTest
+#: /Game/Localization/StringTable/LocalizationTest.LocalizationTest
+msgctxt "LocalizationTest,Task_2"
+msgid "任务2"
+msgstr "任务2"
+
