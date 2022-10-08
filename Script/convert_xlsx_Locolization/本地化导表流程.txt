@@ -1,0 +1,10 @@
+1,拷贝../restable/Document/Localization/Localization.xlsx至  ../zizouqipc/Script/convert_xlsx_Locolization
+2,运行run_convert.bat生成csv文件
+3,将csv文件导入到工程里Locazalition表中
+4,删除Localization/Game文件夹下的本地化文件
+5,运行本地化工具 Gather text->Export Text
+6,打开run_modify.bat ,修改run_modify.bat 的目录参数为自己的文件目录
+7,运行本地化工具 Import text->Compile Text
+
+Tips：1，上传时需要上传Localization.usset以及../Localization/Game下的所有文件并且需要检查是否有自己的key
+2，xlsx以及csv文件在打开状态下可能会导致导入失败，最好关了再进行导入。

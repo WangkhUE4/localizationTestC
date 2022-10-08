@@ -1,0 +1,2 @@
+convert_xlsx_Locolization.exe ./LocalizationTest.xlsx
+pause
