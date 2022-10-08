@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{ABAAD559-4F81-CA6D-E968-E0BF17C0B219}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "localizationTestC",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		},
+		{
+			"Name": "JJYYcommandlet",
+			"Enabled": true
+		}
+	]
+}
